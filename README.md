@@ -12,7 +12,6 @@ Receprocating_Actuator/
 ├── writeup.txt   
 └── README.md
 
-
 ## Features
 
 - Automated homing sequence
