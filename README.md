@@ -5,12 +5,19 @@ This project implements a high-speed reciprocating actuator using the **moteus m
 It performs controlled cyclic motion while logging real-time telemetry data and generating post-run analysis plots.
 
 ---
+
 ## File Structure
+
 
 Receprocating_Actuator/
 ├── Actuator.py
 ├── writeup.txt   
 └── README.md
+
+
+
+
+
 
 ## Features
 
