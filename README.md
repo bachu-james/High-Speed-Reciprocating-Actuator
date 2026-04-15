@@ -7,7 +7,7 @@ It performs controlled cyclic motion while logging real-time telemetry data and 
 ---
 ## File Structure
 
-.
+Receprocating_Actuator/
 ├── Actuator.py
 ├── writeup.txt   
 └── README.md
